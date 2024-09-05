@@ -22,6 +22,8 @@ Open the app.
 Type the name of the city or location in the search bar.
 Click the search button, and the app will display the current weather data for the entered location.
 Screenshots:
+![Screenshot (31)](https://github.com/user-attachments/assets/769104f9-28f5-48a0-a7a8-b93d29bfb0c4)
+![Screenshot (30)](https://github.com/user-attachments/assets/bce0319b-8e7e-41ce-97b0-c517fbe78cdc)
 Future Enhancements
 7-day Forecast: Adding a weekly forecast feature.
 Unit Toggle: Option to toggle between Celsius and Fahrenheit.
