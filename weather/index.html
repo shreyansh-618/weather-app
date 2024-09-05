@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Advanced Weather App</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="weather-container">
+      <div class="search-box">
+        <input type="text" id="city-input" placeholder="Enter city name" />
+        <button id="search-button"><i class="bx bx-search"></i></button>
+      </div>
+      <div class="weather-info">
+        <h1 class="city-name">City Name</h1>
+        <h2 class="country">Country</h2>
+        <h3 class="temperature">-- °C</h3>
+        <div class="weather-details">
+          <div class="details">
+            <i class="bx bx-cloud"></i>
+            <p id="description">Description</p>
+          </div>
+          <div class="details">
+            <i class="bx bx-wind"></i>
+            <p id="wind">Wind Speed</p>
+          </div>
+          <div class="details">
+            <i class="bx bx-droplet"></i>
+            <p id="humidity">Humidity</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="js/main.js"></script>
+  </body>
+</html>
