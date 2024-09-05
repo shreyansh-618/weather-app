@@ -1,6 +1,7 @@
 Weather App
 This is a simple, real-time Weather App built using HTML, CSS, and JavaScript, leveraging the OpenWeather API for fetching weather data. The app allows users to check the current weather conditions for any location worldwide.
 Features
+
 Real-Time Weather Data: Displays current temperature, humidity, wind speed, and general weather conditions.
 Responsive Design: Adaptable to various screen sizes and devices.
 Location-Based Search: Users can search for weather by entering a city name or location.
